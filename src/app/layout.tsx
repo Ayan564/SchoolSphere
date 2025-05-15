@@ -10,6 +10,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "SchoolSphere",
   description: "Next.js School Management System",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
