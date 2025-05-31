@@ -178,66 +178,45 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_PRESET=xxxxxxxxxx
 ![Admin Dashboard Page](/screenshots/admin-dash.png "Admin Dashboard Page")
 ![Manage User Page](/screenshots/manage-user.png "Manage User Page")
 ![Manage Profile Page](/screenshots/manage-profile.png "Manage profile Page")
-![All Products Page](/screenshots/all-products.png "All Products Page")
+![All Products Page](/screenshots/all-products.png "All Products Page") -->
 
 ## Tech Stack
 
-[![Javascript](https://skillicons.dev/icons?i=javascript "Javascript")](https://www.javascript.com/ "Javascript") [![Mongodb](https://skillicons.dev/icons?i=mongodb "Mongodb")](https://www.mongodb.com/ "Mongodb") [![Express](https://skillicons.dev/icons?i=expressjs "Express")](https://expressjs.com/ "Express") [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![React JS](https://skillicons.dev/icons?i=nodejs "Node")](https://nodejs.org/en "Node") [![Redux](https://skillicons.dev/icons?i=redux "Redux")](https://redux.js.org/ "Redux") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vite](https://skillicons.dev/icons?i=vite "Vite")](https://vite.dev/ "Vite") [![Postman](https://skillicons.dev/icons?i=postman "Postman")](https://www.postman.com/ "Postman")
+[![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![PostgreSQL](https://skillicons.dev/icons?i=postgresql "PostgreSQL")](https://www.postgresql.org/ "PostgreSQL") [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Node JS](https://skillicons.dev/icons?i=nodejs "Node")](https://nodejs.org/en "Node") [![NextJS](https://skillicons.dev/icons?i=nextjs "NextJS")](https://nextjs.org/ "NextJS") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Postman](https://skillicons.dev/icons?i=postman "Postman")](https://www.postman.com/ "Postman")
 
 ## Acknowledgements
 
-Useful resources and dependencies that are used in Ekart.
+Useful resources and dependencies that are used in SchoolSphere.
 
 ### Backend Dependencies
 
-- [bcryptjs](https://www.npmjs.com/package/bcryptjs) - Version: ^2.4.3
-- [concurrently](https://www.npmjs.com/package/concurrently) - Version: ^8.2.2
-- [cookie-parser](https://www.npmjs.com/package/cookie-parser) - Version: ^1.4.6
-- [cors](https://www.npmjs.com/package/cors) - Version: ^2.8.5
-- [dotenv](https://www.npmjs.com/package/dotenv) - Version: ^16.4.1
-- [express](https://www.npmjs.com/package/express) - Version: ^4.18.2
-- [express-async-handler](https://www.npmjs.com/package/express-async-handler) - Version: ^1.2.0
-- [express-formidable](https://www.npmjs.com/package/express-formidable) - Version: ^1.2.0
-- [flowbite](https://www.npmjs.com/package/flowbite) - Version: ^2.3.0
-- [flowbite-react](https://www.npmjs.com/package/flowbite-react) - Version: ^0.7.6
-- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - Version: ^9.0.2
-- [mongoose](https://www.npmjs.com/package/mongoose) - Version: ^8.1.1
-- [multer](https://www.npmjs.com/package/multer) - Version: ^1.4.5-lts.1
-- [nodemon](https://www.npmjs.com/package/nodemon) - Version: ^3.0.3
-- [react-toastify](https://www.npmjs.com/package/react-toastify) - Version: ^10.0.5
+- [@clerk/nextjs](https://www.npmjs.com/package/@clerk/nextjs) - Version: ^5.4.1
+- [@prisma/client](https://www.npmjs.com/package/@prisma/client) - Version: ^5.19.1
+- [prisma](https://www.npmjs.com/package/prisma) - Version: ^5.19.1
+- [zod](https://www.npmjs.com/package/zod) - Version: ^3.23.8
 
 ### Frontend Dependencies
 
-- [@paypal/react-paypal-js](https://www.npmjs.com/package/@paypal/react-paypal-js) - Version: ^8.1.3
-- [@reduxjs/toolkit](https://www.npmjs.com/package/@reduxjs/toolkit) - Version: ^2.1.0
-- [apexcharts](https://www.npmjs.com/package/apexcharts) - Version: ^3.45.2
-- [axios](https://www.npmjs.com/package/axios) - Version: ^1.6.7
-- [flowbite](https://www.npmjs.com/package/flowbite) - Version: ^2.2.1
+- [next](https://www.npmjs.com/package/next) - Version: 14.2.5
+- [react](https://www.npmjs.com/package/react) - Version: ^18
+- [react-dom](https://www.npmjs.com/package/react-dom) - Version: ^18
+- [react-big-calendar](https://www.npmjs.com/package/react-big-calendar) - Version: ^1.13.2
+- [react-calendar](https://www.npmjs.com/package/react-calendar) - Version: ^5.0.0
+- [recharts](https://www.npmjs.com/package/recharts) - Version: ^2.12.7
+- [next-cloudinary](https://www.npmjs.com/package/next-cloudinary) - Version: ^6.13.0
 - [moment](https://www.npmjs.com/package/moment) - Version: ^2.30.1
-- [react](https://www.npmjs.com/package/react) - Version: ^18.2.0
-- [react-apexcharts](https://www.npmjs.com/package/react-apexcharts) - Version: ^1.4.1
-- [react-dom](https://www.npmjs.com/package/react-dom) - Version: ^18.2.0
-- [react-icons](https://www.npmjs.com/package/react-icons) - Version: ^5.0.1
-- [react-redux](https://www.npmjs.com/package/react-redux) - Version: ^9.1.0
-- [react-router](https://www.npmjs.com/package/react-router) - Version: ^6.21.3
-- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - Version: ^6.21.3
-- [react-slick](https://www.npmjs.com/package/react-slick) - Version: ^0.30.0
-- [react-toastify](https://www.npmjs.com/package/react-toastify) - Version: ^10.0.4
-- [slick-carousel](https://www.npmjs.com/package/slick-carousel) - Version: ^1.8.1
+- [react-toastify](https://www.npmjs.com/package/react-toastify) - Version: ^10.0.5
 
-### Frontend Dev Dependencies
+### Development Dependencies
 
-- [@types/react](https://www.npmjs.com/package/@types/react) - Version: ^18.2.43
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom) - Version: ^18.2.17
-- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react) - Version: ^4.2.1
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer) - Version: ^10.4.17
-- [eslint](https://www.npmjs.com/package/eslint) - Version: ^8.55.0
-- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react) - Version: ^7.33.2
-- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) - Version: ^4.6.0
-- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh) - Version: ^0.4.5
-- [postcss](https://www.npmjs.com/package/postcss) - Version: ^8.4.33
+- [@types/node](https://www.npmjs.com/package/@types/node) - Version: ^20
+- [@types/react](https://www.npmjs.com/package/@types/react) - Version: ^18
+- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom) - Version: ^18
+- [@types/react-big-calendar](https://www.npmjs.com/package/@types/react-big-calendar) - Version: ^1.8.9
+- [eslint](https://www.npmjs.com/package/eslint) - Version: ^8
+- [eslint-config-next](https://www.npmjs.com/package/eslint-config-next) - Version: 14.2.5
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss) - Version: ^3.4.1
-- [vite](https://www.npmjs.com/package/vite) - Version: ^5.0.8 -->
+- [ts-node](https://www.npmjs.com/package/ts-node) - Version: ^10.9.2
 
 <!-- ## Deploy on Vercel
 
